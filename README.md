@@ -1,4 +1,4 @@
-Udacity Data Analysis Advanced Nanodegree Program - Term 1 - Project 1
+>Udacity Data Analysis Advanced Nanodegree Program - Term 1 - Project 1
 
 Project Overview
 In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
