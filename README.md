@@ -1,7 +1,7 @@
 # Udacity Data Analysis Advanced Nanodegree Program - Term 1 - Project 1
 
 # Project Overview
-In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
+In this project, we will analyze a dataset and then communicate our findings about it. we will use the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
 
 Prepare for this project with: Intro to Data Analysis
 
@@ -25,7 +25,7 @@ Know how to use Matplotlib to produce plots showing your findings
 
 # Introduction
 
-For the final project, you will conduct your own data analysis and create a file to share that documents your findings. You should start by taking a look at your dataset and brainstorming what questions you could answer using it. Then you should use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use inferential statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
+For the final project, we will conduct our own data analysis and create a file to share that documents our findings. we should start by taking a look at our dataset and brainstorming what questions we could answer using it. Then we should use pandas and NumPy to answer the questions we are most interested in, and create a report sharing the answers. we will not be required to use inferential statistics or machine learning to complete this project, but we should make it clear in your communications that our findings are tentative. This project is open-ended in that we are not looking for one right answer.
 
 # Step One - Choose Your Data Set
 Click this link (available in a Google doc here) to open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
